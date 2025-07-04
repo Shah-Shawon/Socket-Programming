@@ -8,6 +8,7 @@ This guide explains how to create a 16-character App Password that can be used f
 Google blocks "less secure" apps from accessing your account directly. Instead of using your Gmail password in code (which is unsafe), you use an App Password that works only with that app.
 
 ✅ Steps to Create an App Password
+
 🔹 Step 1: Enable 2-Step Verification
 Visit: https://myaccount.google.com/security
 
