@@ -12,7 +12,7 @@ class AzMail2 {
 
     // ✅ Your email credentials (should use Gmail or app password if using Gmail)
     String user = "xxx@ru.ac.bd";       // Replace with your full sender email
-    String pass = "XYZ";                // Replace with your app password or real password (not recommended)
+    String pass = "XYZ";                // Replace with your app password (show readme_app_password.md to creat app password)
 
     // 🔒 Encode credentials in Base64 (required by SMTP AUTH LOGIN)
     String username = Base64.getEncoder().encodeToString(user.getBytes());
